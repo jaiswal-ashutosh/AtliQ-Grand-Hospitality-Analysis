@@ -67,13 +67,13 @@ The dashboard includes the following key business metrics:
 ## Project Screenshots
 
 ### Overall Dashboard
-![Overall Dashboard](path_to_overall_dashboard_image)
+![Overall Dashboard](img1.png)
 
 ### Revenue Dashboard
-![Revenue Dashboard](path_to_revenue_dashboard_image)
+![Revenue Dashboard](img2.png)
 
 ### Bookings Dashboard
-![Bookings Dashboard](path_to_bookings_dashboard_image)
+![Bookings Dashboard](img.png)
 
 ## Acknowledgements
 

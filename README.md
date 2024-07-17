@@ -80,6 +80,7 @@ The dashboard includes the following key business metrics:
 This dataset and project are part of the Codebasics Resume Challenge 1. Thanks to Codebasics for this incredible opportunity!
 
 
+[Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiY2M0NGQ2OTAtMjBjMi00NzNjLWE0M2YtNzQ2NTUwYmMzZmMwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Contact
 
